@@ -3,5 +3,6 @@ public class demo1 {
         System.out.println("hello java");
         System.out.println("hello php");
         System.out.println("hello python");
+        System.out.println("hello c++");
     }
 }
